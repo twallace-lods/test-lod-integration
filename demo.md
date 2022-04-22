@@ -1,1 +1,3 @@
 # Demo
+
+@lab.Activity(test)
